@@ -1,17 +1,13 @@
-# emploi_du_temps
+# Emploi du Temps - FSO
 
-A new Flutter project.
+Application multiplateforme développée avec **Flutter** pour la consultation et la gestion des emplois du temps de la Faculté des Sciences d'Oujda (FSO)
 
-## Getting Started
+## Architecture du projet
+Le code est structuré en trois dossiers distincts :
+* `data`: accès aux données et modèles.
+* `domain`: logique métier de l'application.
+* `presentation` : écrans et composants visuels.
 
-This project is a starting point for a Flutter application.
+## Aperçu de la base (`main`)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="955" height="1016" alt="Capture d&#39;écran 2026-11-26 141808" src="https://github.com/user-attachments/assets/d8496896-c878-4f07-927d-3e2a6c5f5288" />
